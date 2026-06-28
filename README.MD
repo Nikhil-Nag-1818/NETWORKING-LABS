@@ -1,4 +1,4 @@
-# Hi, I'm Rahul 👋
+# Hi, I'm Nikhil 👋
 
 ## About Me
 
@@ -26,7 +26,7 @@ Currently learning:
 
 ## Current Goal
 
-Build 100 networking labs before appearing for interviews.
+Working on networking projects.
 
 ## Contact
 
